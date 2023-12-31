@@ -13,10 +13,10 @@ index 24e4db58..5ec1a911 100644
  
          attributes 'Main-Class': 'com.velocitypowered.proxy.Velocity'
 -        attributes 'Implementation-Title': "Velocity"
-+        attributes 'Implementation-Title': "Forkname"
++        attributes 'Implementation-Title': "Twilight"
          attributes 'Implementation-Version': version
 -        attributes 'Implementation-Vendor': "Velocity Contributors"
-+        attributes 'Implementation-Vendor': "Velocity & Forkname Contributors"
++        attributes 'Implementation-Vendor': "Velocity & AT Contributors"
          attributes 'Multi-Release': 'true'
      }
  }
